@@ -1,0 +1,16 @@
+.button-base {
+  background-color: var(--font-color);
+  color: var(--bg-color);
+  font-size: 1.05em;
+  font-weight: 300;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  padding: 6px 8px;
+  transition: box-shadow .3s ease;
+}
+
+.button-base:hover {
+  -webkit-box-shadow: 1px -2px 15px 1px rgba(0,0,0,0.24); 
+  box-shadow: 1px -2px 15px 1px rgba(0,0,0,0.24);
+}
