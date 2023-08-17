@@ -5,16 +5,16 @@ https://dummyapi.io/
 implementaciones actuales:
 
 • Iniciar
-sesión utilizando un autenticador externo (Google, Facebook, entre
-otros).
-• Ver posts en el home.
-• Cada post debe mostrar: foto y nombre del usuario que hizo el post, imagen
+sesión utilizando un autenticador externo en este caso se utiliza Google
+• Se visualizan posts en el home.
+• Cada post muestra la siguiente informacion: foto y nombre del usuario que hizo el post, imagen
 y texto del post, tags del post, cantidad de likes y comentarios.
-• Se debe mostrar un modal con todos los comentarios.
-• Se debe mostrar un modal con toda la información del usuario que hizo el
+• Muestra un modal con todos los comentarios.
+• Muestra un modal con toda la información del usuario que hizo el
 post.
-• Se deben poder filtrar los posts por tag.
-• La información del usuario autenticado debe ser mostrada en el header.
+• Se esta trabajando en el poder filtrar los posts por tag.
+• La información del usuario autenticado se muestra en el header.
+• Se agrega una variacion en la forma en la que podemos ver nuestro sitio web el cual es el modo oscuro.
 
 //inicio de aplicativo web:
 
